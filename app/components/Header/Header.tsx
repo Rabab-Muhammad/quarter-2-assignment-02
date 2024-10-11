@@ -7,21 +7,21 @@ console.log(cssStyle,"cssStyle");
 
 const Header = () => {
   return (
-    <div>
+    <div >
         <nav>
             <h1>My NextJs website</h1>
-            <ul className={cssStyle.a}>
+            <ul>
                 <li>
-                    <Link href="/">Home</Link>
+                    <Link href="/" className={cssStyle.link}>Home</Link>
                 </li>
                 <li>
-                    <Link href="/about">About</Link>
+                    <Link href="/about" className={cssStyle.link}>About</Link>
                 </li>
                 <li>
-                    <Link href="/contact">Contact</Link>
+                    <Link href="/contact" className={cssStyle.link}>Contact</Link>
                 </li>
                 <li>
-                    <Link href="/services">Services</Link>
+                    <Link href="/services" className={cssStyle.link}>Services</Link>
                 </li>
             </ul>
         </nav>
