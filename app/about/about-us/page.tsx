@@ -8,7 +8,7 @@ const AboutUs = () => {
   return (
     <div className={cssStyle.div}>
         <h1 className={cssStyle.h1}>About Us</h1>
-        <p className={cssStyle.p}>"Creating beautiful and efficient websites that bring your ideas to life online."</p>
+        <p className={cssStyle.p}>Creating beautiful and efficient websites that bring your ideas to life online.</p>
     </div>
   )
 }

@@ -10,7 +10,7 @@ const ContactUs = () => {
     <div className={cssStyle.div}>
 
         <h1 className={cssStyle.h1}>Contact Us</h1>
-        <p className={cssStyle.p}>"Get in touch with us today to start bringing your vision to life—we're here to help!"</p>
+        <p className={cssStyle.p}>Get in touch with us today to start bringing your vision to life—we're here to help!</p>
     </div>
   )
 }
