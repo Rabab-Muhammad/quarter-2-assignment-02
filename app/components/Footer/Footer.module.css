@@ -1,0 +1,17 @@
+.github{
+   color: white;
+    margin-right: 20px;
+}
+
+.github:hover{
+    color: #896dac;
+}
+
+.linkedin{
+    color:white;
+    
+}
+
+.linkedin:hover{
+    color: #0077B5;
+}
