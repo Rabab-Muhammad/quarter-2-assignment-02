@@ -16,7 +16,7 @@ const AboutPage = () => {
       <Header></Header>
         <h1 className={cssStyle.about_h1}>Welcome to About page</h1>
         <button className={cssStyle.button}>
-    <Link href="./about/about-us" className={cssStyle.a}>About Us </Link>
+    <Link href="#" className={cssStyle.a}>About Us </Link>
     </button>
       <Hero></Hero>
       <Footer></Footer>

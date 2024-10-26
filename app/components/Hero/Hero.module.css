@@ -2,11 +2,11 @@
     background-color: rgb(137, 208, 211);
     color: black;
     text-align: center;
-    height: 200px;
+    height: 180px;
     margin-top: 70px;
     margin-left: 200px;
     margin-right: 200px;
-    border-radius: 100px;
+    border-radius: 50px;
     padding-bottom: 30px;   
 }
 
@@ -22,17 +22,18 @@
 
 .p{
     font-size: 35px;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .button{
     background-color: rgb(14, 141, 141);
+
     height: 40px;
     width: 150px;
     border: none;
     border-radius: 20px;
     font-size: 16px;
-    margin-top: 5px;
+    margin-top: 40px;
     cursor: pointer;
 }
 

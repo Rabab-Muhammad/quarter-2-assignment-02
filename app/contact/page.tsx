@@ -11,7 +11,7 @@ const ContactPage = () => {
       <Header></Header>
         <h1 className={cssStyle.contact_h1}>Welcome to Contact page</h1>
         <button className={cssStyle.button}>
-        <Link href="./contact/contact-us" className={cssStyle.a}>Contact Us </Link>
+        <Link href="#" className={cssStyle.a}>Contact Us </Link>
         </button>
         <Hero></Hero>
         <Footer></Footer>

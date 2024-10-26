@@ -11,7 +11,7 @@ const ServicesPage = () => {
       <Header></Header>
         <h1 className={cssStyle.services_h1}> Welcome to Services page</h1>
         <button className={cssStyle.button}>
-        <Link href="./services/web-development"className={cssStyle.a}>Web-Development </Link>
+        <Link href="#"className={cssStyle.a}>Web-Development </Link>
         </button>
         <Hero></Hero>
         <Footer></Footer>
